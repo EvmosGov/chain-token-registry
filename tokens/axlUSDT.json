@@ -22,5 +22,5 @@
   }],
   "coingeckoId": "tether",
   "category": "stablecoin",
-  "coinSourcePrefix": "Axelar"
+  "coinSourcePrefix": "axelar"
 }
